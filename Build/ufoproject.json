@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D UFO Project",
+"dataUrl": "ufoproject.data.unityweb",
+"asmCodeUrl": "ufoproject.asm.code.unityweb",
+"asmMemoryUrl": "ufoproject.asm.memory.unityweb",
+"asmFrameworkUrl": "ufoproject.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
